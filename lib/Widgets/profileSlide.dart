@@ -4,7 +4,6 @@ import 'package:tinder_app/Widgets/profileInfor.dart';
 import 'package:tinder_app/blocs/bloc.dart';
 import 'package:tinder_app/models/profiles.dart';
 import 'package:tinder_app/utils/constants.dart';
-import 'package:http/http.dart' as http;
 
 class ProfileSlide extends StatefulWidget {
   final List<Profile> profiles;
