@@ -42,7 +42,6 @@ class _MyHomePageState extends State<MyHomePage> {
       title: Text(
         'Home',
         style: TextStyle(
-          fontFamily: "OpenSans",
           fontSize: 12,
         ),
       ),
@@ -52,7 +51,6 @@ class _MyHomePageState extends State<MyHomePage> {
       title: Text(
         'Friends',
         style: TextStyle(
-          fontFamily: "OpenSans",
           fontSize: 12,
         ),
       ),
